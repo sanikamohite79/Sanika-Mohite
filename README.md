@@ -4,15 +4,19 @@
 
 🚀 B.Tech Graduate in Information Technology | Aspiring Software Developer
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 🎓 B.Tech Graduate in Information Technology
+
 💻 Interested in Software Development, Web Development, and Problem Solving
+
 🌱 Skilled in C#, .NET, ASP.NET Core, Java, SQL, HTML, CSS, and JavaScript
+
 🔭 Built projects using .NET, Firebase, Flutter, and Web Technologies
+
 📚 Strong understanding of Object-Oriented Programming, Data Structures, and Database Management Systems
+
 ⚡ Exploring Cloud Computing and Modern Software Development Practices
-📫 Reach me at: sanikamohite79@gmail.com
+
+📫 Reach me at: [sanikamohite79@gmail.com](mailto:sanikamohite79@gmail.com)
 
 ## 🛠 Technical Skills
 
