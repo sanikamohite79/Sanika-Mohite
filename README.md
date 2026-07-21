@@ -70,9 +70,9 @@
 
 ![GitHub Stats](https://github.com/SanikaMohite&show_icons=true)
 
-## 💻 Most Used Languages
+## 💻 Most Used Language
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanikaMohite &layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanikaMohite&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
