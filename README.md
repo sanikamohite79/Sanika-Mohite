@@ -72,11 +72,11 @@
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanika Mohite &layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanikaMohite &layout=compact)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sanika Mohite)
+![GitHub Streak](https://streak-stats.demolab.com?user=SanikaMohite)
 
 ## 🌐 Connect With Me
 
