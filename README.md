@@ -40,4 +40,4 @@
 
 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
 
-[GitHub](https://github.com/Sanika Mohite)
+[GitHub](https://github.com/sanikamohite79)
