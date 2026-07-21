@@ -22,5 +22,22 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Java)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanika Mohite &show_icons=true)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanika Mohite &layout=compact)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sanika Mohite)
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+
+[GitHub](https://github.com/Sanika Mohite)
