@@ -18,12 +18,12 @@
 
 💻 Languages
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=cs" /> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=cpp" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=sql" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=cs" /> <img src="https://skillicons.dev/icons?i=cpp" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=sql" /> </p>
 
 
 🛠️ Tools & Technologies
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=dotnet" /> <img src="https://skillicons.dev/icons?i=aspnet" /> <img src="https://skillicons.dev/icons?i=angular" /> <img src="https://skillicons.dev/icons?i=flutter" /> <img src="https://skillicons.dev/icons?i=firebase" /> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=vscode" /> <img src="https://skillicons.dev/icons?i=bootstrap" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=dotnet" /> <img src="https://skillicons.dev/icons?i=flutter" /> <img src="https://skillicons.dev/icons?i=firebase" /> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=vscode" /> <img src="https://skillicons.dev/icons?i=bootstrap" /> </p>
 
 
 ## 📊 GitHub Stats
