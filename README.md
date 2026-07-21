@@ -1,28 +1,43 @@
 # 👋 Hello, I'm Sanika Mohite
 
-🎓 B.Tech Information Technology Student
+## 👨‍💻 About Me
 
-💻 Aspiring Software Developer
+🚀 B.Tech Graduate in Information Technology | Aspiring Software Developer
 
-🌱 Currently Learning
-- C#
-- ASP.NET Core
-- SQL
-- Java
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🚀 Projects
-- QR Based Smart Attendance System
-- Subscription Notifier App
+🎓 B.Tech Graduate in Information Technology
+💻 Interested in Software Development, Web Development, and Problem Solving
+🌱 Skilled in C#, .NET, ASP.NET Core, Java, SQL, HTML, CSS, and JavaScript
+🔭 Built projects using .NET, Firebase, Flutter, and Web Technologies
+📚 Strong understanding of Object-Oriented Programming, Data Structures, and Database Management Systems
+⚡ Exploring Cloud Computing and Modern Software Development Practices
+📫 Reach me at: sanikamohite79@gmail.com
 
-📫 Contact Me
-- Email: sanikamohite79@gmail.com
-
-## 🛠 Skills
+## 🛠 Technical Skills
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+
+🛠️ Languages and Tools
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=java" /> 
+  <img src="https://skillicons.dev/icons?i=cs" /> 
+  <img src="https://skillicons.dev/icons?i=dotnet" /> 
+  <img src="https://skillicons.dev/icons?i=python" /> 
+  <img src="https://skillicons.dev/icons?i=cpp" /> 
+  <img src="https://skillicons.dev/icons?i=mysql" /> 
+  <img src="https://skillicons.dev/icons?i=html" /> 
+  <img src="https://skillicons.dev/icons?i=css" /> 
+  <img src="https://skillicons.dev/icons?i=javascript" /> 
+  <img src="https://skillicons.dev/icons?i=bootstrap" /> 
+  <img src="https://skillicons.dev/icons?i=flutter" /> 
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" /> </p>
 
 ## 📊 GitHub Stats
 
