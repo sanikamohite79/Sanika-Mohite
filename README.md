@@ -68,7 +68,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github.com/your-username=SanikaMohite &show_icons=true)
+![GitHub Stats](https://github.com/SanikaMohite&show_icons=true)
 
 ## 💻 Most Used Languages
 
