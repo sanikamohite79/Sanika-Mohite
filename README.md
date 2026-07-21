@@ -16,28 +16,15 @@
 
 ## 🛠 Technical Skills
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+💻 Languages
 
-🛠️ Languages and Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=cs" /> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=cpp" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=sql" /> </p>
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=java" /> 
-  <img src="https://skillicons.dev/icons?i=cs" /> 
-  <img src="https://skillicons.dev/icons?i=dotnet" /> 
-  <img src="https://skillicons.dev/icons?i=python" /> 
-  <img src="https://skillicons.dev/icons?i=cpp" /> 
-  <img src="https://skillicons.dev/icons?i=mysql" /> 
-  <img src="https://skillicons.dev/icons?i=html" /> 
-  <img src="https://skillicons.dev/icons?i=css" /> 
-  <img src="https://skillicons.dev/icons?i=javascript" /> 
-  <img src="https://skillicons.dev/icons?i=bootstrap" /> 
-  <img src="https://skillicons.dev/icons?i=flutter" /> 
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" /> </p>
+
+🛠️ Tools & Technologies
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=dotnet" /> <img src="https://skillicons.dev/icons?i=aspnet" /> <img src="https://skillicons.dev/icons?i=angular" /> <img src="https://skillicons.dev/icons?i=flutter" /> <img src="https://skillicons.dev/icons?i=firebase" /> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=vscode" /> <img src="https://skillicons.dev/icons?i=bootstrap" /> </p>
+
 
 ## 📊 GitHub Stats
 
